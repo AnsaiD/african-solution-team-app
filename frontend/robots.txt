@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://african-solution-team-app.onrender.com/sitemap.xml
